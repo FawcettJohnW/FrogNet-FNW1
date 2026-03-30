@@ -1,1 +1,1 @@
-# FrogNet-FNW1
+"FNW1 is the FrogNet Network Wire Protocol — a semantic compression protocol for HTTP/JSON traffic. This repository will contain the open protocol specification and reference implementation. Development is funded by [pending]. See fawcettinnovations.com for more information."# FrogNet-FNW1
